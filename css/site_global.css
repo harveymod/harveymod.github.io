@@ -146,13 +146,6 @@ a.nontext /* used to override default properties of 'a' tag */
 	padding: 0px;
 }
 
-.Character-Style
-{
-	color: #FFFFFF;
-	font-family: maven-pro, sans-serif;
-	font-weight: 900;
-}
-
 .list0 li:before
 {
 	position: absolute;

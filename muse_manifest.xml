@@ -1,71 +1,19 @@
-<manifest alg="2" build="2015.1.1.343" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="harveymod.github.io" resolutions="1x" timestamp="1505066435233">
+<manifest alg="2" build="2015.1.1.343" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="harveymod.github.io" resolutions="1x" timestamp="1505086539658">
   <folder name="css">
-    <file name="site_global.css" crc="4139544154"/>
-    <file name="about.css" crc="309462219" ref="about"/>
-    <file name="iefonts_about.css" crc="44309068" ref="about"/>
-    <file name="index.css" crc="4024927150" ref="index"/>
-    <file name="iefonts_index.css" crc="332768235" ref="index"/>
-    <file name="contact.css" crc="3825563107" ref="contact"/>
+    <file name="site_global.css" crc="131700929"/>
+    <file name="index.css" crc="4133041224" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="484278746" ref="index:about:contact"/>
-    <file name="museutils.js" crc="531812214" ref="index:about:contact"/>
-    <file name="whatinput.js" crc="84559013" ref="index:about:contact"/>
-    <file name="jquery.musemenu.js" crc="3902934130" ref="index:about:contact"/>
-    <file name="jquery.watch.js" crc="3866665977" ref="index:about:contact"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="120190942" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="484278746" ref="index"/>
+    <file name="museutils.js" crc="531812214" ref="index"/>
+    <file name="whatinput.js" crc="84559013" ref="index"/>
     <file name="pie.js" crc="3827607177" ref="index"/>
-    <file name="webpro.js" crc="4156477058" ref="index:contact"/>
-    <file name="musewpslideshow.js" crc="4058618124" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="3810062583" ref="index"/>
-    <file name="touchswipe.js" crc="4174436727" ref="index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:about:contact"/>
-    <file name="form_check.php" crc="373582055" ref="contact"/>
-    <file name="form_throttle.php" crc="211381018" ref="contact"/>
-    <file name="form_process.php" crc="6354943" ref="contact"/>
-    <file name="form-u919.php" crc="3998780922" ref="contact"/>
+    <file name="jquery.watch.js" crc="3866665977" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3902934130" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="u392-4.png" crc="4015850584" ref="index"/>
-    <file name="screenshot at mar 25 13-47-03-u91-fr.jpg" crc="4169155943" ref="index"/>
-    <file name="screenshot at mar 25 13-47-03-u91-r-fr.png" crc="3887052232" ref="index"/>
-    <file name="screenshot at mar 25 13-47-03.jpg" crc="433830603" ref="index"/>
-    <file name="screenshot at mar 25 13-47-30-u134-fr.jpg" crc="82634605" ref="index"/>
-    <file name="screenshot at mar 25 13-47-30-u134-r-fr.png" crc="293904963" ref="index"/>
-    <file name="screenshot at mar 25 13-47-30.jpg" crc="3889400833" ref="index"/>
-    <file name="screenshot at mar 25 13-47-38-u112-fr.png" crc="359868302" ref="index"/>
-    <file name="screenshot at mar 25 13-47-38-u112-r-fr.png" crc="214447927" ref="index"/>
-    <file name="screenshot at mar 25 13-47-38.png" crc="4017455155" ref="index"/>
-    <file name="screenshot at mar 25 13-47-23-u178-fr.jpg" crc="142781804" ref="index"/>
-    <file name="screenshot at mar 25 13-47-23-u178-r-fr.png" crc="129575410" ref="index"/>
-    <file name="screenshot at mar 25 13-47-23.jpg" crc="368877515" ref="index"/>
-    <file name="screenshot at mar 25 13-47-13-u195-fr.jpg" crc="4140988126" ref="index"/>
-    <file name="screenshot at mar 25 13-47-13-u195-r-fr.png" crc="3902077505" ref="index"/>
-    <file name="screenshot at mar 25 13-47-13.jpg" crc="3954813575" ref="index"/>
-    <file name="screenshot at mar 25 13-47-51-u200-fr.jpg" crc="244002314" ref="index"/>
-    <file name="screenshot at mar 25 13-47-51-u200-r-fr.png" crc="3849125473" ref="index"/>
-    <file name="screenshot at mar 25 13-47-51.jpg" crc="4276750244" ref="index"/>
-    <file name="screenshot at mar 25 13-47-57-u215-fr.jpg" crc="4132488152" ref="index"/>
-    <file name="screenshot at mar 25 13-47-57-u215-r-fr.png" crc="4039825698" ref="index"/>
-    <file name="screenshot at mar 25 13-47-57.jpg" crc="448404338" ref="index"/>
-    <file name="screenshot at mar 25 13-47-45-u226-fr.jpg" crc="4837256" ref="index"/>
-    <file name="screenshot at mar 25 13-47-45-u226-r-fr.png" crc="4260253971" ref="index"/>
-    <file name="screenshot at mar 25 13-47-45.jpg" crc="3957388336" ref="index"/>
-    <file name="screenshot at mar 25 13-51-53.jpg" crc="478327690" ref="index"/>
-    <file name="screenshot at mar 25 13-51-53-u235-r-fr.png" crc="4149953924" ref="index"/>
-    <file name="facebook.png" crc="317936629" ref="index:about"/>
-    <file name="vimeo.png" crc="523308923" ref="index"/>
-    <file name="twitter.png" crc="4102706121" ref="index:about"/>
-    <file name="dribbble.png" crc="4050684656" ref="index"/>
-    <file name="skype.png" crc="4267061425" ref="index:about"/>
-    <file name="pasted image 400x400.jpg" crc="4101591115" seo="true" ref="about"/>
-    <file name="heart.png" crc="117585526" seo="true" ref="about"/>
-    <file name="u929-17.png" crc="188132410" ref="contact"/>
-    <file name="u929-17-r.png" crc="188132410" ref="contact"/>
-    <file name="u929-17-m.png" crc="188132410" ref="contact"/>
-    <file name="u929-17-fs.png" crc="188132410" ref="contact"/>
+    <file name="pasted image 400x400.jpg" crc="245467080" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="384432402" seo="true" mt="1505066274526" redirect="true"/>
-  <file name="about.html" crc="3943415042" seo="true" mt="1505066274269" redirect="true"/>
-  <file name="contact.html" crc="4083662006" seo="true" mt="1505066274662" redirect="true"/>
+  <file name="index.html" crc="4194307209" seo="true" mt="1505086483765" redirect="true"/>
 </manifest>
